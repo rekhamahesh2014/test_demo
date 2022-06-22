@@ -1,3 +1,5 @@
+<!-- This is from new branch -->
+
 <?php define('MAIN_INCLUDED', 1); ?>
 <?php
 $_arguments = array();
